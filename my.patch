@@ -1,0 +1,14 @@
+diff --git a/test2.txt b/test2.txt
+new file mode 100644
+index 0000000..fbcf12d
+--- /dev/null
++++ b/test2.txt
+@@ -0,0 +1 @@
++toto
+diff --git a/test3.txt b/test3.txt
+new file mode 100644
+index 0000000..b08f7b0
+--- /dev/null
++++ b/test3.txt
+@@ -0,0 +1 @@
++Test3
